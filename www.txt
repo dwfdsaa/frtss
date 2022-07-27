@@ -1,0 +1,2 @@
+vless://1c842bfc-025b-11ec-9a03-0242ac130003@172.65.238.84:443?type=ws&security=tls&path=%2Fhujiws&host&sni=tyjgfb6.sdfcgsrdfg.tk&alpn=#1
+vless://1c842bfc-025b-11ec-9a03-0242ac130003@172.64.91.212:443?type=ws&security=tls&path=%2Fhujiws&host&sni=814858a0.opoij.pages.dev&alpn=#1
